@@ -14,3 +14,5 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 ### 1.Identifique os 4 atributos de um bom software na Engenharia de Software através do uso de charadas: a.Comigo o negócio é ser cost-effective, ou seja, ser simples e econômico. Que atributo eu sou?
 
 ### Usar artigos para classificar tipos de sistemas
+
+### HTML - atividade do listas ordenadas e não ordenadas e aplicação de alguns atributos.

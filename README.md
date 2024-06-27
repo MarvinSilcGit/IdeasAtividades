@@ -19,6 +19,6 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 
 ### Colocar os 4 princípios da engenharia de software junto com a atividade de engenharia de requisitos
 
-### Python - Utilizar os diagramas de atividade
+### Python - Utilizar os diagramas de atividade; Marcadores
 
 ### BD - Utilizar os diagrams de entidade-relacionamento

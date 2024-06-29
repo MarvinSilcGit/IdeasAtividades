@@ -22,3 +22,7 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 ### Python - Utilizar os diagramas de atividade; Marcadores
 
 ### BD - Utilizar os diagrams de entidade-relacionamento
+
+### Python - utilizar planilhas do excel para exemplificar vetores e outras estruturas de dados
+
+### Algum diagrama que exemplifique como um software funciona quando o usuário faz um pedido

@@ -26,3 +26,5 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 ### Python - utilizar planilhas do excel para exemplificar vetores e outras estruturas de dados
 
 ### Algum diagrama que exemplifique como um software funciona quando o usuário faz um pedido
+
+### Criar caso onde cala aluno é um gerente de projetos e dono do negócio. E assim vai acontecendo os previstos e imprevistos. Definir número máximo de participantes

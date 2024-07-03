@@ -31,4 +31,4 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 
 ### Analisar tabela de ganhadores do Oscar. Tirar insights de cada coluna. Descobrir qual filme ganhou de anos antes
 
-### Seletores com o seletor hover;
+### Seletores com o seletor hover conectando com as propriedades já aprendidas do css;

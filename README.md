@@ -30,3 +30,5 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 ### Criar caso onde cala aluno é um gerente de projetos e dono do negócio. E assim vai acontecendo os previstos e imprevistos. Definir número máximo de participantes
 
 ### Analisar tabela de ganhadores do Oscar. Tirar insights de cada coluna. Descobrir qual filme ganhou de anos antes
+
+### Seletores com o seletor hover;

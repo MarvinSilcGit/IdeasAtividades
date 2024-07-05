@@ -9,3 +9,5 @@
 ### Analisar tabela de ganhadores do Oscar. Tirar insights de cada coluna. Descobrir qual filme ganhou de anos antes
 
 ### BD - Utilizar os diagrams de entidade-relacionamento
+
+### Utilizar tabela estudante_cetep para criar um caso onde necessita raciocínio do aluno: quantos computadores para tal curso, quantos roteadores por sala.

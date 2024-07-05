@@ -7,3 +7,5 @@
 ### Colocar os 4 princípios da engenharia de software junto com a atividade de engenharia de requisitos
 
 ### Criar caso onde cala aluno é um gerente de projetos e dono do negócio. E assim vai acontecendo os previstos e imprevistos. Definir número máximo de participantes
+
+### Histórias de jogos desenvolvidos bem e outros mal para o aluno assinalar erros e acertos

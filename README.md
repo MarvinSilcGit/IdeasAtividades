@@ -38,3 +38,5 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 ### Semelhante aos vencedores do oscar, utilizar uma tabela contendo nomes, estúdios, diretores de um filme para saber do aluno se seria bom o investimento.
 
 ### Usar Qr code gerador com disciplinas de programação web e Python
+
+### SQLITE usar comandos da pasta myownstuff em sqlite para outras atividades com alguns comandos básico do sqlite

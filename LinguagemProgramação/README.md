@@ -1,1 +1,5 @@
+### Python - Utilizar os diagramas de atividade; Marcadores
 
+### Python - utilizar planilhas do excel para exemplificar vetores e outras estruturas de dados
+
+### Usar Qr code gerador com disciplinas de programação web e Python

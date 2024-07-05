@@ -36,3 +36,5 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 ### Trabalhar com linhas incompletas utilizando <code>IS NULL</code> e <code>IS NOT NULL</code> para encontrar e preencher as linhas da tabela.
 
 ### Semelhante aos vencedores do oscar, utilizar uma tabela contendo nomes, estúdios, diretores de um filme para saber do aluno se seria bom o investimento.
+
+### Usar Qr code gerador com disciplinas de programação web e Python

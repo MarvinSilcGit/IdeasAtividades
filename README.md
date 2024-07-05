@@ -21,22 +21,13 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 
 ### Python - Utilizar os diagramas de atividade; Marcadores
 
-### BD - Utilizar os diagrams de entidade-relacionamento
-
 ### Python - utilizar planilhas do excel para exemplificar vetores e outras estruturas de dados
 
 ### Algum diagrama que exemplifique como um software funciona quando o usuário faz um pedido
 
 ### Criar caso onde cala aluno é um gerente de projetos e dono do negócio. E assim vai acontecendo os previstos e imprevistos. Definir número máximo de participantes
 
-### Analisar tabela de ganhadores do Oscar. Tirar insights de cada coluna. Descobrir qual filme ganhou de anos antes
-
 ### Seletores com o seletor hover conectando com as propriedades já aprendidas do css;
-
-### Trabalhar com linhas incompletas utilizando <code>IS NULL</code> e <code>IS NOT NULL</code> para encontrar e preencher as linhas da tabela.
-
-### Semelhante aos vencedores do oscar, utilizar uma tabela contendo nomes, estúdios, diretores de um filme para saber do aluno se seria bom o investimento.
 
 ### Usar Qr code gerador com disciplinas de programação web e Python
 
-### SQLITE usar comandos da pasta myownstuff em sqlite para outras atividades com alguns comandos básico do sqlite

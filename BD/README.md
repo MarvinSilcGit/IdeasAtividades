@@ -9,3 +9,5 @@
 ### BD - Utilizar os diagrams de entidade-relacionamento
 
 ### Utilizar tabela estudante_cetep para criar um caso onde necessita raciocínio do aluno: quantos computadores para tal curso, quantos roteadores por sala.
+
+### Mostrar diagrama e abaixo comando SQL pedindo para supôr qual o resultado.

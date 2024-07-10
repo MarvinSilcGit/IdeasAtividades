@@ -5,3 +5,5 @@
 ### Usar Qr code gerador com disciplinas de programação web e Python
 
 ### Fazer algoritmo utilizando timeline
+
+### Programa que calcule calendário semanal de um aluno

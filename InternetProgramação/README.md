@@ -7,3 +7,5 @@
 ### Utilizar a função de embutir mapas nos sites
 
 ### As tags de agrupamento. Fazer atividade parecida com LProg
+
+### Criar caça palavras com as tags de tabelamento

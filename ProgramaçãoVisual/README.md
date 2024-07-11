@@ -5,3 +5,11 @@
 ### Com o figma, avaliar cada uma das disciplinas da UX
 
 ### Criar atividade para avaliar as disciplinas da UX: Arquitetura da informação, Usabilidade, Design de interação, Taxonomia, Estratégia de design e pesquisa de usuários
+
+
+série abstract netflix
+
+Passar alguns jogos para responder as perguntas sobre as disciplinas de UX
+
+Atividade de prototipagem com figma
+Criar caso onde aluno projeta interface conforme pedido do cliente e autorização do CEO

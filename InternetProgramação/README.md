@@ -9,3 +9,5 @@
 ### As tags de agrupamento. Fazer atividade parecida com LProg
 
 ### Criar caça palavras com as tags de tabelamento
+
+### Inspecionar elementos HTML atividade

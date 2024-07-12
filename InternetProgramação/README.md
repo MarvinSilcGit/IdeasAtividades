@@ -10,4 +10,6 @@
 
 ### Criar caça palavras com as tags de tabelamento
 
+### Criação e estilização de tabelas
+
 ### Inspecionar elementos HTML atividade

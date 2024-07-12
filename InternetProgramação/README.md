@@ -13,3 +13,7 @@
 ### Criação e estilização de tabelas
 
 ### Inspecionar elementos HTML atividade
+
+### Colocar fotos e perguntar quais tags foram modificadas pelo css
+
+### SObre também bloco e em linha. Colocar imagens

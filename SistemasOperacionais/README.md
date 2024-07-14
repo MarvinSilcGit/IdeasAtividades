@@ -14,3 +14,5 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 ### Utilizar o mapa mental para responder questões como: quais são os hardware e software que o iphone possui. Montar mapa com as mesmas questões
 
 ### Pesquisar dispositivos compatível com cada tipo de SO. Elencando as características de cada um em termos de memória, processador etc.
+
+### Fazer atividade sobre processo, programa e tarefa

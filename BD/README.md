@@ -13,3 +13,5 @@
 ### Mostrar diagrama e abaixo comando SQL pedindo para supôr qual o resultado.
 
 ### Usar sql Mystery se possível nas aulas
+
+### Utilizar diagramas para saber qual o resultado de cada comando. Semelhante ao diagrama de programação

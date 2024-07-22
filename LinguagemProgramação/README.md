@@ -7,3 +7,5 @@
 ### Fazer algoritmo utilizando timeline
 
 ### Programa que calcule calendário semanal de um aluno
+
+### Fazer atividade de conversão de binário para texto Binário para número

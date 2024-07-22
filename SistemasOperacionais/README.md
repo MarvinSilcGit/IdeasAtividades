@@ -1,7 +1,6 @@
 ### Gerencia de memória 
 
-Criar tabelas no Excel compartimentadas de modo a deixar espaço para criação de trilhas
-Uso o controlador de memória como responsável e aplicativos como exemplo
+### Criar tabelas no Excel compartimentadas de modo a deixar espaço para criação de trilhas. Uso o controlador de memória como responsável e aplicativos como exemplo
 
 ### Sistemas Operacionais: descobrir se determinada tecnologia é tanto hardware como software ou ambos
 
@@ -26,3 +25,5 @@ Uso o controlador de memória como responsável e aplicativos como exemplo
 ### Diagrama: Usar trilhas para mostrar comunicação com processadores
 
 ### Diagrama: Narrar como seria o download de um jogo utilizando todos os conceitos do diagrama
+
+### SO: Colocar numeração no diagrama para que o aluno possa preencher a frase Por exemplo; 1 Usuário seleciona o jogo através do 'sistema de arquivos' 2 o sistem de validação' 3 é enviado para o 'sistema operacional'

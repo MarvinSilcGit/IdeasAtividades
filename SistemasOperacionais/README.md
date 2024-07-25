@@ -29,3 +29,5 @@
 ### SO: Colocar numeração no diagrama para que o aluno possa preencher a frase Por exemplo; 1 Usuário seleciona o jogo através do 'sistema de arquivos' 2 o sistem de validação' 3 é enviado para o 'sistema operacional'
 
 ### Continuar os diagramas de SO utilizando outros tipos de sistemas Operacionais e destrinchar em outros diagramas as funções de um sistema operacional
+
+### Pensar num jeito de integrar o stop com todas as disciplinas

@@ -25,3 +25,5 @@
 ### Continuar os diagramas de SO utilizando outros tipos de sistemas Operacionais e destrinchar em outros diagramas as funções de um sistema operacional
 
 ### Pensar num jeito de integrar o stop com todas as disciplinas
+
+### SO 15 ser o oposto da SO 14, com as frases no lugar dos termos

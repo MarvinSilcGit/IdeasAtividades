@@ -4,11 +4,7 @@
 
 ### Sistemas Operacionais: descobrir se determinada tecnologia é tanto hardware como software ou ambos
 
-### SO Algum diagrama que exemplifique como um software funciona quando o usuário faz um pedido
-
 ### Diagrama de caso: SO, software e Hardware para diferentes cursos. Com orçamento delimitado
-
-### SO Algum diagrama que exemplifique como cada tipo de hardware funciona quando o usuário faz um pedido;
 
 ### Utilizar o mapa mental para responder questões como: quais são os hardware e software que o iphone possui. Montar mapa com as mesmas questões
 
@@ -23,7 +19,3 @@
 ### Diagrama: Colocar também conversão binária do Software para SO
 
 ### Continuar os diagramas de SO utilizando outros tipos de sistemas Operacionais e destrinchar em outros diagramas as funções de um sistema operacional
-
-### Pensar num jeito de integrar o stop com todas as disciplinas
-
-### SO 15 ser o oposto da SO 14, com as frases no lugar dos termos

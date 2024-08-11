@@ -15,3 +15,5 @@
 ### Usar sql Mystery se possível nas aulas
 
 ### Utilizar diagramas para saber qual o resultado de cada comando. Semelhante ao diagrama de programação
+
+### Fazer apresentação Utilizando o curso de SQLite
